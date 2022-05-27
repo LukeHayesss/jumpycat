@@ -1,6 +1,6 @@
 # Jumpy Cat!
-Say hello to the coolest cat, Mr. Murray. 
-Another one day mini-game challenge to build a cute version of Doodle Jump, called Jumpy Cat! 
+Say hello to the coolest jumping cat, Mr. Murray. 
+This was another one day challenge to build a cute version of the game Doodle Jump, but I decided to call mine Jumpy Cat! Some of the features I like are-
 - collision detection, so when the cat lands on a platform, it then jumps up so that we can land on the next one
 - the score keeps track of how many platforms we jump past
 - if the cat hits the bottom of the game grid, it's game over
@@ -12,4 +12,4 @@ Another one day mini-game challenge to build a cute version of Doodle Jump, call
 <img width="299" alt="jumpy cat img" src="https://user-images.githubusercontent.com/91355631/170794432-051b4553-ffb6-44af-b2c0-7b91b480308e.png">
 
 # Playing The Game
-![jumpy ready](https://user-images.githubusercontent.com/91355631/170795050-b8a27b72-42ca-4446-9f6f-9dcb140a4637.gif)
+![jumpy ready 2](https://user-images.githubusercontent.com/91355631/170795472-2ccda457-aa5f-4170-97f5-089ac21f7965.gif)
