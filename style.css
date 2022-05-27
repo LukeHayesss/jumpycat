@@ -1,0 +1,30 @@
+.App {
+    text-align: center;
+  }
+  
+  .grid {
+    width: 400px;
+    height: 600px;
+    position: relative;
+    font-size: 200px;
+    text-align: center;
+    color: white;
+    font-family: 'VT323';
+    background-image: url('background doodle 2.png');
+  }
+  
+  .doodler {
+    width: 87px;
+    height: 85px;
+    position: absolute;
+    z-index: 5;
+    background-image: url('cat jump.png');
+  }
+  
+  .platform {
+    width: 85px;
+    height: 40px;
+    position: absolute;
+    z-index: 1;
+    background-image: url('platform white.png');
+  }
