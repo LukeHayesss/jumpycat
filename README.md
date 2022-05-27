@@ -10,3 +10,5 @@ Another one day mini-game challenge to build a cute version of Doodle Jump, call
 # Images and Gifs
 <img width="299" alt="jumpy cat img" src="https://user-images.githubusercontent.com/91355631/170794432-051b4553-ffb6-44af-b2c0-7b91b480308e.png">
 
+# Playing The Game
+![jumpy ready](https://user-images.githubusercontent.com/91355631/170795050-b8a27b72-42ca-4446-9f6f-9dcb140a4637.gif)
