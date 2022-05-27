@@ -1,4 +1,5 @@
 # Jumpy Cat!
+Say hello to the coolest cat, Mr. Murray. 
 Another one day mini-game challenge to build a cute version of Doodle Jump, called Jumpy Cat! 
 - collision detection, so when the cat lands on a platform, it then jumps up so that we can land on the next one
 - the score keeps track of how many platforms we jump past
